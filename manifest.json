@@ -1,0 +1,26 @@
+﻿{
+  "schema": 1,
+  "channel": "stable",
+  "engine": {
+    "version": "8.0.0",
+    "api": 1,
+    "minimum_workbench": "1.7.6"
+  },
+  "release": {
+    "tag": "addon-v8.0.0",
+    "asset": "DayZ-Workbench-Addon-v8.0.0.zip",
+    "sha256": ""
+  },
+  "capabilities": [
+    "PBO_FULL_PAYLOAD_RECOVERY",
+    "PBO_TOOLS_MARKER_RECOVERY",
+    "PBO_TOOLS_V18_MARKER_RECOVERY",
+    "RVMAT_SOURCE_PROOF",
+    "ODOL53_55_MLOD"
+  ],
+  "techniques": {
+    "generic_include_graph": "1.0.0",
+    "pbotools_v18": "1.0.0",
+    "pbotools_v19": "1.0.0"
+  }
+}
